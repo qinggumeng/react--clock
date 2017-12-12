@@ -1,11 +1,7 @@
 {
   "name": "react-clock",
   "version": "1.0.0",
-  "description": "world clock show",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,13 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/qinggumeng/react--clock.git"
   },
-  "keywords": [
-    "clock"
-  ],
   "author": "hfkh_lxd",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/qinggumeng/react--clock/issues"
   },
-  "homepage": "https://github.com/qinggumeng/react--clock#readme"
+  "homepage": "https://github.com/qinggumeng/react--clock#readme",
+  "description": ""
 }
