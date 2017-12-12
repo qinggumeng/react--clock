@@ -1,6 +1,7 @@
 {
-  "name": "react-clock",
+  "name": "react-world-clock",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +15,5 @@
   "bugs": {
     "url": "https://github.com/qinggumeng/react--clock/issues"
   },
-  "homepage": "https://github.com/qinggumeng/react--clock#readme",
-  "description": ""
+  "homepage": "https://github.com/qinggumeng/react--clock#readme"
 }
